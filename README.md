@@ -5,11 +5,11 @@
   The Smart Billing System is a full-featured web-based application designed to streamline the billing process for businesses. Developed using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL, it provides a user-friendly interface with powerful backend functionality to manage products, generate invoices, and track transactions efficiently.
 </p>
 <br>
-🚀 Overview
+<b>🚀 Overview</b>
 <p>The Smart Billing System provides a user-friendly interface with a powerful backend to manage products, generate professional invoices, and track transactions in real-time. It eliminates manual calculation errors and improves operational efficiency. </p>
 <br>
 <br>
-👥 User Roles & Responsibilities
+<b>👥 User Roles & Responsibilities</b>
 <p>The system defines three primary user roles with specific access levels:
 </p>
 <b>Admin</b>
@@ -35,7 +35,7 @@
 </li>
 </ul>
 <br><br>
-🛠️ Tech Stack
+<b>🛠️ Tech Stack</b>
 <ul>
   <li>Frontend: HTML5, CSS3, Bootstrap 5 </li>
   <li>Scripting: JavaScript(Real-time calculations & dynamic fields) </li>
@@ -44,7 +44,7 @@
 </ul>
 <br>
 <br>
-✨ Key Features
+<b>✨ Key Features</b>
 <ul>
   <li>Customer Reporting</li>
   <li>Bill Image Archiving</li>
@@ -57,7 +57,7 @@
 </ul>
 <br>
 <br>
-📁 Installation & Setup 
+<b>📁 Installation & Setup </b>
 <ol>
   <li>Clone the repository:<br>
   bash<br>
